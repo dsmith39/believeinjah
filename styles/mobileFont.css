@@ -1,0 +1,14 @@
+h1, h2, h3, h4, h5, h6, p, a {
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans-serif;
+}
+
+h1{
+	font-size: 2.5rem;
+}
+h2{
+	font-size: 2rem;
+}
+p{
+	font-size: 1.3rem;
+	line-height: 1.3;
+}
