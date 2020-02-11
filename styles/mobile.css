@@ -1,5 +1,6 @@
 @import url("overlay.css");
 @import url("mobileFont.css");
+@import url("modal.css");
 
 header {
 	background: rgb(238,238,174);
